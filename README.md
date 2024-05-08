@@ -2,7 +2,7 @@
 A card game using QT, C++, show hand
 
 code price: 600
-WX: help-assignment
+wechat: help-assignment
 
 COMP282 The C++ Programming Language
 University of Liverpool Department of Computer Science
@@ -106,7 +106,7 @@ myHand.swapCard({}, myDeck);
 does nothing.
 Order does not matter, e.g., myHand.swapCard({3, 4, 5}, myDeck);
 is the same as myHand.swapCard({5, 3, 4}, myDeck);
-WX: help-assignment
+wechat: help-assignment
 
 扑克游戏（梭哈，show hand）
 1.游戏窗口上应该有一个＂开始”（或＂发牌＂）按钮。点击该按钮后，游戏就开始了。
